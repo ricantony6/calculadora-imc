@@ -15,7 +15,7 @@ body {
 }
 
 .hide {
-    display: none !important;
+    display: none ;
 }
 
 .container {
@@ -43,3 +43,39 @@ body {
     flex: 1;
     margin-bottom: 1rem;
 }
+
+.form-controls label {
+    font-weight: bold;
+    margin-bottom: .6rem;
+    color: #ccc;    
+}
+
+.form-inputs input {
+    padding: 1rem 0.5rem;
+}
+
+.action-controls {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2rem;
+    gap: 1rem;
+}
+
+button {
+    text-transform: uppercase;
+    padding: 1rem 1.5rem;
+    background-color: #f44236;
+    border: none;
+    border-radius: 0.5rem;
+    color: #fff;
+    cursor: pointer;
+    opacity: 0.9;
+    flex: 1;
+}
+
+button:hover {
+    opacity: 1;
+}
+
+
+
