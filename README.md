@@ -1,7 +1,7 @@
 <h1 align="center"> Calculadora de IMC </h1>
 <p align="center">
- <img alt="projeto calculadora IMC" src=".github/preview1.png" width="100%">
- <img alt="projeto calculadora IMC" src=".github/preview2.png" width="100%">
+ <img alt="projeto calculadora IMC" src=".github/preview1.png" width="35.7%">
+ <img alt="projeto calculadora IMC" src=".github/preview2.png" width="35%">
 </p>
 
 ## 🚀 Tecnologias
